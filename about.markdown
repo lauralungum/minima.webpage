@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi! I'm a 1st year doctorate student at University of Cambridge in Neuroscience, currently part of the [Experimental and Comparative Connectomics lab](https://syn.mrc-lmb.cam.ac.uk/index.html). I'm interested in the link between neural structure and function, especially in the context of multisensory integration (i.e. how the brain processes streams of sensory information). While I embrace a reductionist approach to understanding the brain, I'm also  interested in behavioural neuroscience and philosophy, particularly when it comes to free will and consciousness. I like writing about these topics not only to train my abilities of self expression, but also to invoke insightful conversation about these complex subjects. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Feel free to connect with me via [Twitter](), [Linkedin](),  
 
 
 [jekyll-organization]: https://github.com/jekyll
