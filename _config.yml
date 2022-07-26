@@ -21,11 +21,11 @@
 title: Laura Lungu
 email: laura.lungum@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi! I'm PhD Student at University of Cambridge who's mainly into neuroscience, philosophy and optimisation.
+  PhD Student in Neuroscience at University of Cambridge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Lauralungum
-github_username:  whiteflies
+#github_username:  whiteflies
 
 # Build settings
 theme: minima
