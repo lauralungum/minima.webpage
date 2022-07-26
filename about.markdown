@@ -9,5 +9,7 @@ Hi! I'm a 1st year doctorate student at University of Cambridge in Neuroscience,
 Get in touch!
 --
 [Twitter](https://twitter.com/LauraLungum)
-[Linkedin](https://www.linkedin.com/in/laura-lungu-907616135/) 
-[Instagram](https://www.instagram.com/laura_asdfh).  
+//
+[Linkedin](https://www.linkedin.com/in/laura-lungu-907616135/)
+//
+[Instagram](https://www.instagram.com/laura_asdfh) 
