@@ -28,7 +28,7 @@ twitter_username: Lauralungum
 #github_username:  whiteflies
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
