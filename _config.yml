@@ -28,9 +28,7 @@ twitter_username: Lauralungum
 #github_username:  whiteflies
 
 # Build settings
-theme: hitchens-theme
-ignore_theme_config: true
-
+theme: minimal
 plugins:
   - jekyll-feed
 
