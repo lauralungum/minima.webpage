@@ -36,6 +36,9 @@ theme: minima
 plugins:
   - jekyll-feed
 
+#added excerpts 
+show_excerpts: true
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
