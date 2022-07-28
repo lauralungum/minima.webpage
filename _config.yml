@@ -29,12 +29,14 @@ linkedin_username: laura-lungu-907616135
 instagram_username: laura_asdfhi
 
 title-logo: /images/title-logo.png
+favicon: /images/favicon.png
 
 author: Laura Lungu
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 #added excerpts 
 show_excerpts: true
