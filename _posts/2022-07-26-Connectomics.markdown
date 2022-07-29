@@ -5,7 +5,7 @@ date:   2022-07-26 19:08:43 +0300
 categories: jekyll update
 ---
 
-![brain gif](https://github.com/whiteflies/whiteflies.github.io/blob/main/images/ezgif.com-video-to-gif.gif)
+![brain gif](/images/flybrain.gif)
 
 Whether or not you heard about the term, you definitely heard about the scientific conundrum behind **connectomics**: how do networks of *billions* of neurons and *trillions* of connections in our nervous system produce actions, thoughts, emotions and memories? Well, connectomics aims to answer just that! By means of advanced neuroimaging techniques including, most notably, electron microscopy and functional magnetic resonance imaging, we hope to map connectomes of human and non-human animals, and unravel the structural basis of behaviour.
 
@@ -19,7 +19,7 @@ The first step in building a connectome is finding an organism worthwhile explor
 
 EM data tends to be preferred for its high resolution, but acquiring an EM volume and turning it into a comprehensive 3D map is no mundane task. I’ll describe this technique in detail in a later post, but for the time being, all you need to know is this: it takes the best electron microscope ***today*** **approximately** **1 year to image 1 cubic millimetre**. This is roughly the size of a pygmy squid brain (below is an image of both for reference).
 
-![Image 1](https://github.com/whiteflies/whiteflies.github.io/blob/main/images/squidcube.png)
+![Image 1](/images/squidcube.png)
 
 So for small, simple organisms like *C.elegans,* with roughly 300 neurons and 7,600 synapses, reconstruction was possible early on. In fact, the first-ever fully mapped connectome was that of *C.elegans* back in 1986 ([John White and colleagues](https://www.sciencedirect.com/science/article/pii/S0166223618302443) at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/), University of Cambridge). Subsequently mapped (though incompletely) connectomes include the zebra fish (100 000 neuronst; at [Max Planck](http://fishatlas.neuro.mpg.de/zebrafishatlas/main_page) Institute), the bumblebee (1 million neurons), the locust, and, an animal that has received a lot of attention across scientific disciplines, the fruit fly *Drosophila** **(with 100 000 neurons).
 
