@@ -17,3 +17,4 @@ The first step in building a connectome is finding an organism worthwhile explor
 2. The second option is via Functional magnetic resonance imaging (or fMRI), which measures brain activity according to changes in blood flow, such that increased blood flow in one region indicates increased activity in the area of interest.
 
 EM data tends to be preferred for its high resolution, but acquiring an EM volume and turning it into a comprehensive 3D map is no mundane task. I’ll describe this technique in detail in a later post, but for the time being, all you need to know is this: it takes the best electron microscope ***today*** **approximately** **1 year to image 1 cubic millimetre**. This is roughly the size of a pygmy squid brain (below is an image of both for reference).
+![Image 1](whiteflies.github.io/images/squidcube.png)
