@@ -29,6 +29,9 @@ For this reason, fMRI is the current state of the art technique when it comes to
 I will end this post by highlighting the reasons why connectomes are so ‘hyped’ and their usefulness to science. Since bridging the gap between neural structure and function is a central dogma in neuroscience, you can imagine that connectomics will have important implications for:
 
 a) The structural causes of neurological diseases
+
 b) Gaining insight into psychopathologies
+
 c) Developing computational models of whole-brain dynamics
+
 d) Machine Learning, since connectomes allow us to gain tools, algorithms and definitions that can be applied to graphs.
