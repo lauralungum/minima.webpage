@@ -19,3 +19,16 @@ The first step in building a connectome is finding an organism worthwhile explor
 EM data tends to be preferred for its high resolution, but acquiring an EM volume and turning it into a comprehensive 3D map is no mundane task. I’ll describe this technique in detail in a later post, but for the time being, all you need to know is this: it takes the best electron microscope ***today*** **approximately** **1 year to image 1 cubic millimetre**. This is roughly the size of a pygmy squid brain (below is an image of both for reference).
 
 ![Image 1](https://github.com/whiteflies/whiteflies.github.io/blob/main/images/squidcube.png)
+
+So for small, simple organisms like *C.elegans,* with roughly 300 neurons and 7,600 synapses, reconstruction was possible early on. In fact, the first-ever fully mapped connectome was that of *C.elegans* back in 1986 ([John White and colleagues](https://www.sciencedirect.com/science/article/pii/S0166223618302443) at the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/), University of Cambridge). Subsequently mapped (though incompletely) connectomes include the zebra fish (100 000 neuronst; at [Max Planck](http://fishatlas.neuro.mpg.de/zebrafishatlas/main_page) Institute), the bumblebee (1 million neurons), the locust, and, an animal that has received a lot of attention across scientific disciplines, the fruit fly *Drosophila** **(with 100 000 neurons).
+
+When it comes to humans, EM is unfortunately not the best option at present, for 2 main reasons: 1st, brain preparation for imaging requires living samples, which, as you can imagine is not doable for humans and 2nd the human brain is so huge it would take a very long period of time to acquire sizable data. Since 1 mm³ takes about a year to image, and the human brain has roughly 1.3 million mm³, that means it would take about 1.3 million years to have the entire brain mapped by EM. And that’s without reconstructing the connectome (**86 billion neurons** and about 100 trillion connections).
+
+For this reason, fMRI is the current state of the art technique when it comes to human connectome data. The mission of mapping the human brain is currently pursued by **[The Human Connectome Project](http://www.humanconnectomeproject.org/about/)**: the first large-scale attempt to collect connectomics data from individuals in vivo. Although this technique does not reach nearly as high resolutions as EM, its discoveries are very much noteworthy.
+
+I will end this post by highlighting the reasons why connectomes are so ‘hyped’ and their usefulness to science. Since bridging the gap between neural structure and function is a central dogma in neuroscience, you can imagine that connectomics will have important implications for:
+
+a) The structural causes of neurological diseases
+b) Gaining insight into psychopathologies
+c) Developing computational models of whole-brain dynamics
+d) Machine Learning, since connectomes allow us to gain tools, algorithms and definitions that can be applied to graphs.
