@@ -5,6 +5,7 @@ date:   2022-07-26 19:08:43 +0300
 categories: jekyll update
 ---
 
+![brain gif](https://github.com/whiteflies/whiteflies.github.io/blob/main/images/ezgif.com-video-to-gif.gif)
 
 Whether or not you heard about the term, you definitely heard about the scientific conundrum behind **connectomics**: how do networks of *billions* of neurons and *trillions* of connections in our nervous system produce actions, thoughts, emotions and memories? Well, connectomics aims to answer just that! By means of advanced neuroimaging techniques including, most notably, electron microscopy and functional magnetic resonance imaging, we hope to map connectomes of human and non-human animals, and unravel the structural basis of behaviour.
 
