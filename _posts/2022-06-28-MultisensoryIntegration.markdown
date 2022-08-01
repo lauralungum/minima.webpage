@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What on earth is Connectomics"
+title:  "How the brain makes sense of senses"
 date:   2022-07-26 19:08:43 +0300
 categories: jekyll update
 ---
