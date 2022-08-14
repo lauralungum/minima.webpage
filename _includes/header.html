@@ -3,17 +3,18 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <!--Custom Logo or title logo-->
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+     <!--Custom Logo or title logo-->
+     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}"></img>
         {%- else -%}
           {{ site.title | escape }}</a>
-      {%- endif -%}x
+      {%- endif -%}
     </a>
     <!--end title logo-->
-
+       
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+
 
 
     {%- if page_paths -%}
