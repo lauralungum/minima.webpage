@@ -31,8 +31,8 @@ To end, I'll highlighting the usefulness of connectomes to science as well as th
 
 a) The structural causes of neurological diseases (see https://www.nature.com/articles/s41583-019-0177-6 for more)
 
-b) Gaining insight into psychopathologies(
+b) Gaining insight into psychopathologies
 
-c) Developing computational models of whole-brain dynamics 
-
-d) Machine Learning, since connectomes allow us to gain tools, algorithms and definitions that can be applied to graphs. ([Mullakaeva et al.](https://arxiv.org/abs/2204.00323), [J Brown, et al.](https://arxiv.org/abs/1611.08699) )
+c) Developing computational models of whole-brain dynamics ([P.Vogels et al.](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.28.061604.135637)
+)
+d) Machine Learning, since connectomes allow us to gain tools, algorithms and definitions that can be applied to graphs. ([Mullakaeva et al.](https://arxiv.org/abs/2204.00323), [J Brown, et al.](https://arxiv.org/abs/1611.08699))
