@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The value of a messy place"
-date:   2022-06-24 19:08:43 +0300
+date:   2023-06-24 19:08:43 +0300
 categories: jekyll update
 ---
 
