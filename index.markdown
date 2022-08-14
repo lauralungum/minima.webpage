@@ -5,4 +5,5 @@
 layout: home
 
 ---
-Welcome to my website! 
+Welcome - If you have any ideas or suggestions chat with me [@LauraLungum](https://twitter.com/LauraLungum)
+
