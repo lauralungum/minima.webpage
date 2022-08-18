@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What on earth is Connectomics"
-permalink: /whatisconnectomics/
+permalink: /blog/whatisconnectomics/
 date:   2022-07-26 19:08:43 +0300
 categories: jekyll update
 ---
