@@ -28,12 +28,4 @@ When it comes to humans, EM is unfortunately not the best option at present, for
 
 For this reason, fMRI is the current state of the art technique when it comes to human connectome data. The mission of mapping the human brain is currently pursued by **[The Human Connectome Project](http://www.humanconnectomeproject.org/about/)**: the first large-scale attempt to collect connectomics data from individuals in vivo. Although this technique does not reach nearly as high resolutions as EM, its discoveries are very much noteworthy.
 
-To end, I'll highlighting the usefulness of connectomes to science as well as their overall scientific progression in recent years. Since bridging the gap between neural structure and function is a central dogma in neuroscience, you can imagine that connectomics will have important implications for:
-
-a) The structural causes of neurological diseases (see https://www.nature.com/articles/s41583-019-0177-6 for more)
-
-b) Gaining insight into psychopathologies
-
-c) Developing computational models of whole-brain dynamics ([P.Vogels et al.](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.28.061604.135637))
-
-d) Machine Learning, since connectomes allow us to gain tools, algorithms and definitions that can be applied to graphs. ([Mullakaeva et al.](https://arxiv.org/abs/2204.00323), [J Brown, et al.](https://arxiv.org/abs/1611.08699))
+Since bridging the gap between neural structure and function is a central dogma in neuroscience, you can imagine that connectomics will have important implications for two major fields: medicine and computation. Connectomics is a useful tool to unravel the structural causes of neurological disease and to gain insight into psychopathologies. In addition to that, connectomes help us develop computational models of whole-brain dynamics which can contribute to AI ai and Machine learning (e.g. algorythms implemented by biological brains can be appied to graphs) ([P.Vogels et al.](https://www.annualreviews.org/doi/pdf/10.1146/annurev.neuro.28.061604.135637), [Mullakaeva et al.](https://arxiv.org/abs/2204.00323), [J Brown, et al.](https://arxiv.org/abs/1611.08699)). 
