@@ -5,7 +5,7 @@ permalink: /blog/messyplace/
 date:   2022-10-13 11:08:43 +0300
 categories: jekyll update
 ---
-![room](/images/messyroom.jpg)
+
 
 
 
