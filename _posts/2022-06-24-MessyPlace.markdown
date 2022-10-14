@@ -29,7 +29,9 @@ I’m not here to convince you that living a disorganised life is the way to suc
 **The missconceptions**
 
 The assumptions one makes when overestimating the value of a clean environment are:
+
 An *organised living space is the reflection of a clear mind -* while true for some, it’s **definitely not a rule**, and I’d argue it’s more a correlative than a causal relationship.  This is certainly untrue for many scientists - if you see the working spaces of many, you’ll notice it’s not at all representative of how clear their goals/thoughts are from a scientific perspective, and not at all reflective of how established of a scientist they are. If you're looking for a correlation though, you'll find the opposite to be true.  
+
 *A* *clear mind leads to a successfull life* - your thoughts and feelings **need not be at their clearest for you to succesfully go about your life**. Understanding them is a highly dynamic process, and simply never-ending, but it’s also a beautiful one.  
 
 Even if these two assumptions were true, it’s quite a jump to say an organised living space leads to a successfull life. For the most part, that’s simply not true. You can be incredibly excited for a project, and so emersed in it that you completely forget about the external world. Only when you’re done you come to the realisation that your place is, well, a mess. Isn’t that a sign that your project was successful though? 
@@ -41,5 +43,4 @@ There’s plenty of remarkable people who, regardless of the environment they’
 Some even find a bit of mess inspiring -  particularly artists. Besides being unpleasant to navigate, a mess is a sign we are doing stuff - we’re here, we’re moving things, we live with them and we use them. It’s our mark in time, and can be a good indicator of our ideas. Besides, who wants a place that’s never been touched? One analogy I can come up with is the after-party nostalgia: you think what a nuiscance will be to clean up, but the mess is what reminds you of the great time you had with your friends.  
 
 Nature is disorder. Every season has its elements of mess and beauty;  right now, in autumn, leaves are piling over the pavement, the air is stingy and days are getting shorter - but for that, you get a scenery of vibrant colors,  golden streets, and rosy cheeks. 
-
 Ultimately, life is a never ending entropic environment, but why should laws of nature negatively affect our wellbeing, when we can allow it to shape us in a positive manner.
