@@ -4,14 +4,17 @@ title:  "The value of a messy place"
 date:   2022-10-13 11:08:43 +0300
 categories: jekyll update
 ---
-
+![room](/images/messyroom.jpg)
 
 
 Jordan Peterson will say you won’t get anywhere unless you’re at least able to make your bed, ‘If you want to change the world, start with your room’, he says. After all, if you can’t even keep your personal space together, how could you possibly expect to handle the messiness and randomness of the world? 
 
 But I have some contradictory evidence to that:
+![room](/images/francisbacon.png)
+![room](/images/alberteinstein.png)
+![room](/images/jacksonpullok.png)
 
-![room](/images/messyroom.jpg)
+
 
 I’m not here to convince you that living a disorganised life is the way to succeed. Rather, I’m here to argue that a messy environment isn’t such a big deal, and can be, in fact, an interesting and valuable experience to have; for some, even inspiring. 
 
