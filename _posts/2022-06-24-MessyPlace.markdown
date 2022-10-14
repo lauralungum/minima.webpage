@@ -12,7 +12,7 @@ Jordan Peterson will say you won’t get anywhere unless you’re at least able 
 But I have some contradictory evidence to that:
 
 
-![room](/images/artists.png)
+![room](/images/artists.svg)
 
 
 
