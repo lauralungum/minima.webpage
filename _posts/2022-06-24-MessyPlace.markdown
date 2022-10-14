@@ -7,8 +7,16 @@ categories: jekyll update
 ![room](/images/messyroom.jpg)
 
 
-Jordan Peterson will say you won’t get anywhere unless you’re at least able to make your bed, ‘If you want to change the world, start with your room’, he says. After all, if you can’t even keep your personal space together, how could you possibly expect to handle the messiness and randomness of the world? 
 
+
+
+
+
+
+
+
+  Jordan Peterson will say you won’t get anywhere unless you’re at least able to make your bed, ‘If you want to change the world, start with your room’, he says. After all, if you can’t even keep your personal space together, how could you possibly expect to handle the messiness and randomness of the world? 
+  
 But I have some contradictory evidence to that:
 
 
