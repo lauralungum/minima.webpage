@@ -5,5 +5,5 @@
 layout: home
 
 ---
-Welcome! If you have any ideas or suggestions chat with me [@LauraLungum](https://twitter.com/LauraLungum)
+Welcome! If you have any ideas or suggestions you can find me at ll634@cam.ac.uk. 
 
