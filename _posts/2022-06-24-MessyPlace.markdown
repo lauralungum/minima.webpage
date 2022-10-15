@@ -4,6 +4,7 @@ title:  "The Value of a Messy Place"
 permalink: /blog/messyplace/
 date:   2022-10-13 11:08:43 +0300
 categories: jekyll update
+<meta property="og:image" content="messyroom.jpg" />
 ---
 
 
