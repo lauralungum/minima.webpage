@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How the brain makes sense of senses"
-date:   2023-02-27 19:08:43 +0300
+date:   2023-04-27 19:08:43 +0300
 categories: jekyll update
 ---
 
