@@ -3,7 +3,8 @@
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-     <!--Custom Logo or title logo-->
+     
+    <!--Custom Logo or title logo
      <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {%- if site.title-logo -%}
         <img src="{{ site.title-logo | relative_url }}" alt="{{ site.title | escape }}" style="max-width: 40px; height: auto;"></img>
@@ -11,12 +12,9 @@
           {{ site.title | escape }}</a>
       {%- endif -%}
     </a>
-    
-    <!--end title logo-->
+    end title logo-->
        
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
-
-
 
     {%- if page_paths -%}
       <nav class="site-nav">

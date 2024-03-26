@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-  border-top: 1px solid #000000;
-  border-bottom: 1px solid #000000;
+  border-top: 2px solid #000000;
+  border-bottom: 0px solid #000000;
   min-height: $spacing-unit * 1.865;
   // Positioning context for the mobile navigation icon
   position: relative;
@@ -13,8 +13,9 @@
   @include relative-font-size(1.625);
   font-weight: 300;
   line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
+  letter-spacing: 1px;
   margin-bottom: 0;
+  margin-left: 0 ;
   float: left;
 
   &,
@@ -41,7 +42,7 @@
 
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
-      margin-right: 20px;
+      margin-right: 80px;
     }
   }
 
