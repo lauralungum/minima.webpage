@@ -54,9 +54,21 @@ $on-laptop:        800px !default;
 ;
 
 
-//add .site-title class, to change font of title 
-.site-title {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500; // Makes the text bold
 
+
+
+//add hover effect to tabs  
+.trigger a:hover {
+  color: #ffffff; /* Change the text color upon hover */
+  background-color: #e5e0da; /* Change the background color upon hover */
+  transition: color 0.1s ease-in-out, background-color 0.3s ease-in-out; /* Smooth transition */
+}
+
+//no text decoration
+a {
+  text-decoration: none; // Removes underline from all links
+
+  &:hover {
+      text-decoration: none; // Ensures underline is not added back on hover
+  }
 }

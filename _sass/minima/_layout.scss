@@ -23,6 +23,25 @@
     color: $grey-color-dark;
   }
 }
+//add .site-title class, to change font of title 
+.site-title {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500; // Makes the text bold
+}
+//add hover to site title
+.site-title {
+  display: inline-block; // Makes sure padding and background changes are applied
+  text-decoration: none; // Removes any underline from links by default
+  padding: 5px; // Adjust padding to your liking
+  transition: background-color 0.3s ease, color 0.3s ease; // Smooth transition for hover effects
+
+  &:hover {
+      background-color: #e5e0da; // Example hover background color
+      color: #ffffff; // Example hover text color (optional)
+      // Keep text-decoration as none if you don't want underline on hover
+      text-decoration: none;
+  }
+}
 
 .site-nav {
   float: right;
