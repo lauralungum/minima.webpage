@@ -10,7 +10,7 @@ Hello! My name is Laura, I'm a 3rd year Neuroscience PhD at University of Cambri
 My PhD is focused on the link between neural structure and function, especially in the context of multisensory integration (i.e. how the brain processes streams of sensory information). 
 
 Outside of that I'm working a couple of projects: 
-1. I'm trying to create an [Instutue for Ethical AI](https://lauralungu.com/blog/ethicalAIinstitute/) research, and hoping to pursue this as part of this year's [Polaris](https://www.polaris-fellowship.com/) cohort, a fellowship organised by Entrepreneur First. 
+1. I'm trying to create an [Instutue for Ethical AI](https://lauralungu.com/blog/ethicalAIinstitute/) research and pursuing this as part of this year's [Polaris](https://www.polaris-fellowship.com/) cohort, a fellowship organised by Entrepreneur First. 
 
 2. I'm working on integrating Neuroscientific knwoledge into the Criminal Justice system, to promote rehabilitation over punishment. To this end, I'm currently trying to implement a sabbatical for neuroscientists in the judicial system
 
