@@ -12,7 +12,7 @@ My PhD is focused on the link between neural structure and function, especially 
 Outside of that I'm working a couple of projects: 
 1. I'm trying to create an [Instutue for Ethical AI](https://lauralungu.com/blog/ethicalAIinstitute/) research, and hoping to pursue this as part of this year's [Polaris](https://www.polaris-fellowship.com/) cohort, a fellowship organised by Entrepreneur First. 
 
-2. I'm working on integrating Neuroscientific knwoedge into the Criminal Justice system, to promote rehabulitation over punishment. 
+2. I'm working on integrating Neuroscientific knwoledge into the Criminal Justice system, to promote rehabilitation over punishment. To this end, I'm currently trying to implement a sabbatical for neuroscientists in the judicial system
 
 
  projects pertaining to AI Safety, Criminal Justice and Enrepreneurship. 
