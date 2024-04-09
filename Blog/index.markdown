@@ -7,4 +7,4 @@ title: "Blog"
 category: blog
 ---
 
-My personal website has writings that are 
+My website has mostly personal writings. You can also check [my publications in Varsity](https://www.varsity.co.uk/profile/laura-lungu), the sudent-led magazine of Cambridge University. 
