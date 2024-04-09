@@ -6,3 +6,5 @@ layout: home
 title: "Blog"
 category: blog
 ---
+
+My personal website has writings that are 

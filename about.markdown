@@ -11,7 +11,7 @@ My doctoral research is focused on multisensory integration (i.e. how the brain 
 I am actively engaged in applying insights from neuroscience to the Criminal Justice system, aiming to prioritize rehabilitation over punishment. Currently, I am working towards the implementation of a sabbatical program for neuroscientists within the judicial system, in collaboration with [UK DAY 1](https://ukdayone.org/).
 
 
-Beyond my research expertise, I'm delving into the field of AI alignment. I'm in the process of establishing an [Institute for Ethical AI Research](https://lauralungu.com/blog/ethicalAIinstitute/), a venture I'm pursuing as part of this year's [Polaris](https://www.polaris-fellowship.com/)  cohort - a fellowship organized by Entrepreneur First.
+Beyond my research expertise, I'm delving into the field of AI alignment. I'm in the process of creating a platform for better[Ethical AI Research](https://lauralungu.com/blog/ethicalAIinstitute/), a venture I'm pursuing as part of this year's [Polaris](https://www.polaris-fellowship.com/)  cohort - a fellowship organized by Entrepreneur First.
 
 
 ![portrait](/images/portrait.JPG){: style="width: 50%; height: auto;"}
