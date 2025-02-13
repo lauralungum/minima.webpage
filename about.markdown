@@ -6,12 +6,9 @@ permalink: /about/
 
 Hello! My name is Laura, I'm a PhD candidate at University of Cambridge, currently part of the [Experimental and Comparative Connectomics group](https://syn.mrc-lmb.cam.ac.uk/index.html) at [MRC LMB](https://www2.mrc-lmb.cam.ac.uk/about-lmb/). 
 
-My doctoral research is focused on multisensory integration (i.e. how the brain processes and integrates streams of sensory information) . While I embrace a reductionist approach to understanding the brain, my interests span  cognitive neuroscience, psychology, and philosophy. Specifically, I delve into the concepts of free will, morality, metacognition, and the theory of knowledge (epistemology). Individuals who have significantly shaped my thoughts on these topics include Sam Harris, David Deutsch, Robert Sapolsky and Michael Sandel. My scientific conduct and intellectual rigour is mostly inspired by my first mentor [Devin Terhune](https://en.wikipedia.org/wiki/Devin_Terhune).
+My doctoral research is focused on multisensory integration (i.e. how the brain processes and integrates streams of sensory information) . While I embrace a reductionist approach to understanding the brain, my interests span  cognitive neuroscience, psychology and philosophy. I'm also passionate about justice. Individuals who have significantly shaped my thoughts on these topics include David Deutsch, Robert Sapolsky and Michael Sandel. My scientific conduct and intellectual rigour is mostly inspired by my first mentor [Devin Terhune](https://en.wikipedia.org/wiki/Devin_Terhune).
 
-I am actively engaged in applying insights from neuroscience to the Criminal Justice system, aiming to prioritize rehabilitation over punishment. Currently, I am working towards the implementation of a sabbatical program for neuroscientists within the judicial system, in collaboration with [UK DAY 1](https://ukdayone.org/). 
-
-
-Beyond my research expertise, I'm delving into the field of AI alignment. I'm in the process of creating a platform for [Ethical AI Research](https://lauralungu.com/blog/ethicalAIinstitute/), a venture I'm pursuing as part of this year's [Polaris](https://www.polaris-fellowship.com/)  cohort - a fellowship organized by Entrepreneur First.
+I am actively engaged in bridging the gap bewteen [Science and the Gorvenment](https://ukdayone.org/briefings/bringing-science-tech-talent-to-government) with the ultimate goal of applying insights from neuroscience to the Criminal Justice system, aiming to prioritize rehabilitation over punishment. 
 
 
 ![portrait](/images/portrait.JPG){: style="width: 50%; height: auto;"}
